@@ -53,6 +53,22 @@ Wallpapers: **1080×2400** JPEG · Icons: **1024×1024** PNG (+ JPG)
 | `rm-back-to-back-action.jpg` | Home | Back-to-back action on floating rock |
 | `rm-meeseeks-trio.jpg` | Lock | Blue blob + Morty + Rick |
 | `rm-split-multiverse.jpg` | Home | Garage / alien jungle split portal |
+| `rm-pickle-rick.jpg` | Lock | Pickle Rick |
+| `rm-citadel-overlook.jpg` | Home | Citadel city overlook |
+| `rm-squanchy-party.jpg` | Home | Squanchy nightclub party |
+| `rm-summer-family.jpg` | Lock | Summer + Morty + Rick |
+| `rm-birdperson.jpg` | Lock | Birdperson + Rick |
+| `rm-butter-robot.jpg` | Lock | Butter robot absurd comedy |
+| `rm-evil-morty.jpg` | Lock | Evil Morty throne |
+| `rm-jerry-lost.jpg` | Home | Jerry lost in alien mall |
+| `rm-space-beth.jpg` | Lock | Space Beth portrait |
+| `rm-council-of-ricks.jpg` | Home | Council of Ricks chamber |
+| `rm-get-schwifty-stage.jpg` | Home | Concert stage |
+| `rm-snowball-dog.jpg` | Lock | Snowball / snuffles dog |
+| `rm-mr-poopybutthole.jpg` | Lock | Mr. Poopybutthole portal |
+| `rm-unity-cosmos.jpg` | Home | Unity cosmic hive |
+| `rm-toxic-rick.jpg` | Home | Toxic Rick mutant |
+| `rm-meeseeks-army.jpg` | Home | Meeseeks army street |
 
 ## Icons
 

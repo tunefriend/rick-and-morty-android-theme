@@ -9,7 +9,7 @@ Fan-inspired **wallpapers, lock screens, icons, and accent colors** for **any An
 
 | Content | Count | Notes |
 |---------|------:|-------|
-| Wallpapers | **22** | Portrait **1080×2400** (includes character scenes) |
+| Wallpapers | **38** | Portrait **1080×2400** (environments + full cast fan art) |
 | Icon images | **8** | Profile pics, contacts, shortcuts (not a full icon pack APK) |
 | Accent palettes | JSON + MD | Portal green Material You vibes |
 | Install guide | — | Works on all modern Android |
@@ -67,4 +67,4 @@ See [LICENSE](LICENSE). Personal fan use; not official merch.
 
 ## Version
 
-**1.1.0** — +10 character wallpapers (Rick, Morty, portal scenes, Meeseeks trio)
+**1.2.0** — +16 more character wallpapers (Pickle Rick, Citadel, Squanchy, Birdperson, Evil Morty, Summer, Jerry, Space Beth, Council, Get Schwifty, Snowball, Mr. PB, Unity, Toxic Rick, Meeseeks army, butter robot)
