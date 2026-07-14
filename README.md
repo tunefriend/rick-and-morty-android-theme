@@ -63,7 +63,9 @@ Same steps. Prefer **Photos** over **Files** if “Can’t open” appears.
 
 ## License
 
-See [LICENSE](LICENSE). Personal fan use; not official merch.
+This project is licensed under the [GNU General Public License v3.0 or later](LICENSE).
+
+Fan-inspired artwork only — not affiliated with Adult Swim / Warner Bros. Franchise trademarks remain with their owners.
 
 ## Version
 
