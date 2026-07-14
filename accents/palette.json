@@ -1,0 +1,37 @@
+{
+  "name": "Rick and Morty — Portal Green",
+  "variants": {
+    "portal_green": {
+      "background": "#0A0F0A",
+      "primary": "#97CE4C",
+      "secondary": "#B5E572",
+      "tertiary": "#00E5A8",
+      "surface": "#121A12",
+      "on_primary": "#0A0F0A"
+    },
+    "meeseeks_blue": {
+      "background": "#061018",
+      "primary": "#4FC3F7",
+      "secondary": "#81D4FA",
+      "tertiary": "#18FFFF",
+      "surface": "#0C1A24",
+      "on_primary": "#001018"
+    },
+    "citadel_purple": {
+      "background": "#0C0814",
+      "primary": "#B388FF",
+      "secondary": "#97CE4C",
+      "tertiary": "#E040FB",
+      "surface": "#160E22",
+      "on_primary": "#100018"
+    },
+    "lab_neon": {
+      "background": "#080C10",
+      "primary": "#76FF03",
+      "secondary": "#00E5FF",
+      "tertiary": "#FFEA00",
+      "surface": "#0E1418",
+      "on_primary": "#001000"
+    }
+  }
+}
