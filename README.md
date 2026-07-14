@@ -9,7 +9,7 @@ Fan-inspired **wallpapers, lock screens, icons, and accent colors** for **any An
 
 | Content | Count | Notes |
 |---------|------:|-------|
-| Wallpapers | **12** | Portrait **1080×2400** |
+| Wallpapers | **22** | Portrait **1080×2400** (includes character scenes) |
 | Icon images | **8** | Profile pics, contacts, shortcuts (not a full icon pack APK) |
 | Accent palettes | JSON + MD | Portal green Material You vibes |
 | Install guide | — | Works on all modern Android |
@@ -23,6 +23,7 @@ wallpapers/
   lab/           # Garage science chaos
   dimensions/    # Weird worlds
   minimal/       # Clean icon-friendly
+  characters/    # Fan-art Rick, Morty & friends
 icons/           # Portal gun, Meeseeks blob, flask, avatars…
 accents/
 ```
@@ -32,10 +33,11 @@ accents/
 | Vibe | Home | Lock |
 |------|------|------|
 | Classic portal | `portals/rm-green-portal.jpg` | `space/rm-dimension-hop-space.jpg` |
-| Science | `lab/rm-garage-lab.jpg` | `lab/rm-garage-in-space.jpg` |
-| Multiverse | `dimensions/rm-psychedelic-tunnel.jpg` | `space/rm-citadel-skyline.jpg` |
+| With characters | `characters/rm-spaceship-duo.jpg` | `characters/rm-rick-portal-gun-portrait.jpg` |
+| Duo action | `characters/rm-back-to-back-action.jpg` | `characters/rm-duo-portrait.jpg` |
+| Couch vibes | `characters/rm-couch-portal-wall.jpg` | `characters/rm-meeseeks-trio.jpg` |
+| Multiverse split | `characters/rm-split-multiverse.jpg` | `characters/rm-portal-from-behind.jpg` |
 | Clean | `minimal/rm-minimal-portal-ring.jpg` | `minimal/rm-meeseeks-blue-field.jpg` |
-| Adventure | `dimensions/rm-desert-portal-sky.jpg` | `space/rm-spaceship-cockpit.jpg` |
 
 Full list: **[CATALOG.md](CATALOG.md)** · Install: **[INSTALL.md](INSTALL.md)**
 
@@ -65,4 +67,4 @@ See [LICENSE](LICENSE). Personal fan use; not official merch.
 
 ## Version
 
-**1.0.0**
+**1.1.0** — +10 character wallpapers (Rick, Morty, portal scenes, Meeseeks trio)
